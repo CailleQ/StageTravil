@@ -227,6 +227,6 @@ function fullUpdate(){
 
 //getAccessToken()
 //addItem()
-//updateItem()
+updateItem()
 //allUpdate()
 //fullUpdate()
